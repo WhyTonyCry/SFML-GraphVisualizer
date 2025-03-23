@@ -1,4 +1,4 @@
-#🌟 SFML-GraphVisualizer
+# SFML-GraphVisualizer
 
 A simple and intuitive graphical representation of graphs using adjacency matrices, adjacency lists, and edge lists. Built with **C++** and the **SFML** library.
 
@@ -24,7 +24,7 @@ A simple and intuitive graphical representation of graphs using adjacency matric
 
 ## 🎨 Visualization Example
 
-![Graph Visualization](<Your-Image-Link-Here>)
+![Graph Visualization](animation.png)
 ---
 
 ## 🛠️ Technologies & Dependencies
