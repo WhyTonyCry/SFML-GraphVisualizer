@@ -25,9 +25,6 @@ A simple and intuitive graphical representation of graphs using adjacency matric
 ## 🎨 Visualization Example
 
 ![Graph Visualization](<Your-Image-Link-Here>)
-
-*Note: Replace `<Your-Image-Link-Here>` with a screenshot of your running application.*
-
 ---
 
 ## 🛠️ Technologies & Dependencies
